@@ -1,0 +1,9 @@
+adduser		       groupmod			    on_ac_power
+apparmor_status        grpunconv		    pam_extrausers_chkpwd
+applygnupgdefaults     halt			    pam_extrausers_update
+cppw		       iptables-legacy		    runuser
+deluser		       iptables-restore		    shutdown
+ebtables-restore       mkfs.msdos		    useradd
+ebtables-save	       mkfs.ntfs		    userdel
+faillock	       mkfs.vfat		    usermod
+fstab-decode	       newusers			    zramctl
