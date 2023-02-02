@@ -609,3 +609,12 @@ git origin remote git@github.com:Aikazelcer1/12.2.git
 git remote add origin git@github.com:Aikazelcer1/12.2.git
 git branch -M main
 git push -u origin main
+echo "# 12.2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Aikazelcer1/12.2.git
+git push -u origin main
+git origin remote git@github.com:Aikazelcer1/12.2.git
+git main remote git@github.com:Aikazelcer1/12.2.git
