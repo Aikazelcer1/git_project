@@ -246,3 +246,366 @@ git commit -m "Коммит"
 git add .gitignore
 git commit -m "Коммит"
 yes
+sudo apt-get install python3 idle3
+./main.ry
+nano main.ry
+./main.ry
+s -l main.ry
+chmod +x main.ry
+getfacl main.ry
+./main.ry
+git add main.ry
+git commit -m'main.ry'
+git pull
+git remote add main.ry
+git fetch pb+
+git fetch pb
+git fetch origin
+git push -u github master
+git reset
+git push main.ry
+git@github.com:Aikazelcer1/git_project.git
+git push origin git_project
+ls
+git push origin main
+nano main.ry
+git add main.ry
+git commit -m'add main.ry'
+git reset HEAD~
+M
+git commit -m'reverted the last commit'
+git revert HEAD
+git push -f
+git log
+git reset --hard HEAD~1
+git revert 2396468f5f4e00e99999dbd8b0a98a96973edb07
+git commit -m'main.ry'
+git log
+git push main.ry
+git push -f
+git clone git@github.com:Aikazelcer1/dz_11.2.git
+cd dz_11.2
+git chekout -b feature
+git checkout -b feature
+cd feature
+git status
+touch str_func.py
+git status
+git add .
+git commit -m "str_func"
+nano str_func.py
+./str_func.py
+git add.
+git commit -m "str_func"
+git remote
+git push origin str_func.py
+git remote
+git add.
+git add .
+git commit -m "str_func"
+git remote
+git push origin feature
+git branch
+git checkout main
+git remote add upstream https://github.com/Aikazelcer1/dz_11.2.git
+git fetch upstream
+git merge upstream/master
+git merge upstream/main
+git push origin main
+git remote
+git branch
+git branch -d feature
+git branch
+git push origin --delete feature
+nano str_func.py
+cd dz_11.2
+nano str_func.py
+git add .
+git commit -m "str_func"
+git remote
+git push orgin feature
+cd dz_11.2
+git push
+git fetch
+git rebase develop
+git pull develop
+git checkout feature
+git checkout develop
+nano str_func.py
+cd feature
+git clone git@github.com:Aikazelcer1/dz_11.2.git
+cd dz_11.2
+ls
+cd feature
+git checkout feature
+ls
+nano str_func.py
+git checkout develop
+git clone git@github.com:Aikazelcer1/dz_11.2.git
+git checkout develop
+nano str_func.py
+git checkout -b develop
+ls
+git checkout feature
+M
+git checkout -b feature+
+git checkout -b feature
+git checkout feature
+git merge feature
+Already up to date.
+git merge develop
+cd dz_11.2
+nano str_func.py
+git add str_func.py
+git commit -m "str_func"
+git checkout -b develop
+git checkout develop
+ls
+nano str_func.py
+git add str_func.py
+git commit -m "str_func"
+git checkout feature
+git push
+cd dz_11.2
+git push
+cd dz_11.2
+git merge develop
+git merge --abort
+git status
+git add .
+git checkout --ours str_func.py
+git checkout --theirs str_func.py
+git add str_func.py
+git commit -m "str_func"
+git checkout develop
+git add .
+git commit -m "str_func"
+git remote
+git push origin str_func.py
+git push origin dz_11.2
+git branch
+git remote add upstream https://github.com/Aikazelcer1/dz_11.2.git
+git remote add upstream git@github.com:Aikazelcer1/dz_11.2.git
+git fetch upstream
+git merge upstream/feature
+git push origin develop
+nano str_func.py
+git checkout feature
+git add .
+git commit -m "str_func"
+git remote
+git push origin str_func.py
+git push origin dz_11.2
+git branch
+git push
+git push upstream
+pip install package-name
+sudo apt install python3-pip
+pip install package-name
+pip install --user package-name
+ls
+cd dz_11.2
+git checkout
+git checkout feature
+git add .
+git commit
+git push
+git push origin feature
+nano str_func.py
+git checkout develop
+nano str_func.py
+git remote
+git push origin feature
+python -m venv venv
+activate
+mkdir energyid && cd energyid
+python -m venv venv
+python3 -m venv venv
+apt install python3.10-venv
+vevn/Scripts/python
+pip install Django==4.0.4
+pip install Pillow psycopg2
+pip list
+pip freeze > requirements.txt
+pip install poetry
+poetry init
+git clone git@github.com:kirillskyeng/trending-it.git
+cd trending-it
+poetry install
+sudo apt install python3-poetry
+poetry show --tree
+poetry show --latest
+poetry update
+mkdir project1
+cd project1
+python -m venv venv
+which python3
+sudo apt install python3
+cd project1
+python -m venv venv
+python3 -m venv venv
+apt install python3.10-venv
+yes
+cd project1
+python -m venv venv
+python3 -m venv venv
+apt install python3.10-venv
+alias python='python3'
+sudo apt install python3.10-venv
+cd project1
+python -m venv venv
+python3 -m venv venv
+venv\Scripts\activate.bat
+activate.bat
+activate
+venv/Scripts/activate.bat
+venv/Scripts/activate
+source venv/bin/activate
+env_dir
+echo $PATH
+pip list
+pip install Django==4.0.4
+pip install pytz
+pip install requests
+pip freeze > Requirements.txt
+nano Requirements.txt
+deactivate
+mkdir project2
+cd project2
+python3 -m venv venv
+source venv/bin/activate
+pip install poetry
+pip freeze > requirements.txt
+ls
+nano requirements.txt
+poetry new project3
+cd project3
+poetry init
+git clone git@github.com:kirillskyeng/pytest_proj.git
+git pull --all
+git branch -a
+git checkout develop
+git clone gh repo clone kirillskyeng/pytest_proj
+pull -all
+ls
+cd pytest_proj
+git pull --all
+git branch -a
+git checkout develop
+python3 -m venv env
+source env/bin/activate
+deactivate
+source venv/bin/activate
+ls
+cd pytest_proj
+git pull --all
+git branch -a
+git checkout develop
+python3 -m venv venv
+source venv/bin/activate
+ls
+cd project2
+pip install -r requirements.txt
+pip freeze > requirements.txt
+ls
+cd project2
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+ls
+cd project2
+pip list
+ls
+cd project2
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+pip list
+ls
+requirements.txt
+nano requirements.txt
+pip freeze > requirements.txt
+nano requirements.txt
+ls
+cd pytest_proj
+git checkout develop
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+ls - lr
+ls
+python3 -m venv venv
+source venv/bin/activate
+pip install pytest
+pip list
+poetry add – G dev pytest
+git branch -a
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+sudo apt install python3.10
+python3.10 -V
+pytest --cov utils/
+python3 -m venv venv
+sourse venv/bin/activate
+source venv/bin/activate
+pip install -r requirements.txt
+pytest --cov utils/
+python3 -m venv venv
+ls
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+ls
+clone git@github.com:Aikazelcer1/3kursovaya.git
+git@github.com:Aikazelcer1/3kursovaya.git
+git clone git@github.com:Aikazelcer1/3kursovaya.git
+git checkout master
+git branch -m main
+git push origin -u main
+git push origin --delete master
+git checkout develop
+git push origin --delete master
+git pull
+ls
+git checkout develop
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+pip install -U pytest
+git init
+git add .
+git commit -m "Add all my files"
+t remote add origin git@github.com:Aikazelcer1/dz_12.2.git
+git remote add origin git@github.com:Aikazelcer1/dz_12.2.git
+git remote add origin https://github.com/Aikazelcer1/dz_12.2.git
+git branch -M main
+git remote add origin https://github.com/Aikazelcer1/dz_12.2.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/Aikazelcer1/dz_12.2.git
+git pull origin master
+git clone git@github.com:kirillskyeng/pytest_proj.git
+git remote add origin git@github.com:Aikazelcer1/12.2.git
+git clone --bare https://github.com/kirillskyeng/pytest_proj.git
+cd 12.2.git
+git push --mirror https://github.com/Aikazelcer1/12.2.git
+git@github.com:Aikazelcer1/12.2.git
+git push --all origin
+pytest
+Command 'pytest' not found, did you mean:
+Try: sudo apt install <deb name>
+Command 'pytest' not found, did you mean:
+Try: sudo apt install <deb name>
+Command 'pytest' not found, did you mean:
+Try: sudo apt install <deb name>
+Command 'pytest' not found, did you mean:
+Try: sudo apt install <deb name>
+sudo apt install pytest
+pip install pytest
+pytest
+git init
+git origin remote git@github.com:Aikazelcer1/12.2.git
+git remote add origin git@github.com:Aikazelcer1/12.2.git
+git branch -M main
+git push -u origin main
